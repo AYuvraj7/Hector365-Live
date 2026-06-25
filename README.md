@@ -17,4 +17,4 @@
 3. "Poster Download करें" दबाएं — PNG file डाउनलोड हो जाएगी, WhatsApp/Instagram पर share करने के लिए तैयार
 
 ## भविष्य में अगर AI features चाहिए हों
-तब वापस उस backend+API key वाले version पर जा सकते हैं (जो पहले बनाया था) — उसके लिए सिर्फ Anthropic credits डालने और Vercel पर deploy करने का काम बाकी था।
+तब वापस उस backend+API key वाले version पर जा सकते हैं (जो पहले बनाया था) — उसके लिए सिर्फ Anthropic credits डालने और Vercel पर deploy करने का काम बाकी था। 
